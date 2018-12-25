@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\y\desktop\run 1\run 1\tree.h(91): warning C4715: 'Tree::addSon': not all control paths return a value
+c:\users\y\desktop\run 1\run 1\tree.h(136): warning C4715: 'Tree::searchAndPrint': not all control paths return a value
+  run 1.vcxproj -> C:\Users\Y\Desktop\run 1\Debug\run 1.exe
